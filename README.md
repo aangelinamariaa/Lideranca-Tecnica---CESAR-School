@@ -1,33 +1,28 @@
-# Lideranca-Tecnica---CESAR-School
-Projetos e exercícios entregues ao final de cada disciplina
-Estou muito feliz em compartilhar minha jornada profissional de Especialização em Liderança Técnica pelo hashtag#CESAR - Centro de Estudos e Sistemas Avançados do Recife, com uma grade curricular incrível que abrange:
+# 🚀 Liderança Técnica | CESAR School
+Com imensa alegria, orgulho e a sensação de ter alcançado um marco significativo na minha trajetória, apresento este repositório! Ele é o testemunho da minha jornada de transformação profissional e a materialização de uma grande conquista: a Especialização em Liderança Técnica na CESAR School (Centro de Estudos e Sistemas Avançados do Recife). Mais do que um portfólio, este é o registro de um investimento em excelência e um salto em direção ao futuro da liderança em tecnologia, com uma grade curricular intensa e focada na intersecção entre gestão, pessoas e inovação.
 
-Liderança e Gestão de Projetos: Liderar estrategicamente para gruiar projetos desde a concepção até a entrega.
+## 📚 Disciplinas e Entrega de Valor
 
-Agilidade e Gestão de Equipes: Liderar equipes com métodos ágeis, aumentando a eficiência e a adaptabilidade.
+Abaixo estão as disciplinas cursadas, com um resumo da entrega de valor de cada uma:
 
-Gestão de Produtos e Portfólios: Otimizar o ciclo de vida de produtos, priorizando recursos e estratégias de mercado.
+| 🏷️ Área de Foco | 💡 Entrega de Valor (Objetivo da Disciplina) |
+| :--- | :--- |
+| **Liderança e Gestão de Projetos** | Liderar estrategicamente para guiar projetos desde a concepção até a entrega. |
+| **Agilidade e Gestão de Equipes** | Liderar equipes com métodos ágeis, aumentando a eficiência e a adaptabilidade. |
+| **Gestão de Produtos e Portfólios** | Otimizar o ciclo de vida de produtos, priorizando recursos e estratégias de mercado. |
+| **Arquitetura de Software** | Projetar soluções robustas e escaláveis que alinhem tecnologia e negócios. |
+| **Data Science e IA** | Analisar grandes volumes de dados com inteligência artificial para obter *insights* precisos e apoiar decisões estratégicas. |
+| **Qualidade de Software e Entrega** | Garantir entregas eficientes, com foco em software de alta qualidade, usabilidade e melhoria contínua. |
+| **Cloud Computing** | Usufruir dos recursos Cloud com escalabilidade, flexibilidade e eficiência. |
+| **Cyber Security** | Implementar medidas de segurança para proteger dados e sistemas, estejam eles *On Premises* ou *In Cloud*. |
+| **DevSecOps** | Integrar segurança no ciclo de vida do desenvolvimento, garantindo entregas ágeis com proteção contínua e colaborativa. |
+| **Gestão de Conflitos e Negociação** | Mediar conflitos para converter tensões em soluções mutuamente benéficas e maximizar resultados. |
+| **Design Thinking** | Usar criatividade e empatia para resolver problemas com foco no usuário. |
+| **Seleção e Onboarding** | Executar processos de recrutamento e integração de novos talentos com mais eficácia. |
+| **Métricas e Tomada de Decisão Baseada em Dados** | Usar dados e métricas para tomar decisões estratégicas baseadas em resultados. |
+| **Modelagem de Estratégias e OKRs** | Definir metas claras, estratégicas e mensuráveis para definir e impulsionar o crescimento e sucesso organizacional. |
+| **Ferramentas de IA para Produtividade** | Automatizar tarefas rotineiras, refinar processos e escalar a capacidade criativa e analítica. |
 
-Arquitetura de Software: Projetar soluções robustas e escaláveis que alinhem tecnologia e negócios.
+## 📁 Estrutura do Repositório
 
-Data Science e IA: Analisar grandes volumes de dados com inteligência artificial para obter insights precisos e apoiar decisões estratégicas.
-
-Qualidade de Software e Entrega: Garantir entregas eficientes, com foco em software de alta qualidade, usabilidade e melhoria contínua.
-
-Cloud Computing: Usufruir dos recursos cloud com escalabilidade, flexibilidade e eficiência.
-
-Cyber Security: Implementar medidas de segurança para proteger dados e sistemas, estejam eles On primese ou In Cloud.
-
-DevSecOps: Integrar segurança no ciclo de vida do desenvolvimento, garantindo entregas ágeis com proteção contínua e colaborativa.
-
-Gestão de Conflitos e Negociação: Mediar conflitos para converter tensões em soluções mutuamente benéficas e maximizar resultados.
-
-Design Thinking: Usar criatividade e empatia para resolver problemas com foco no usuário.
-
-Seleção e Onboarding: Executar processos de recrutamento e integração de novos talentos com mais eficácia.
-
-Métricas e Tomada de Decisão baseada em dados: Usar dados e métricas para tomar decisões estratégicas baseadas em resultados.
-
-Modelagem de Estratégias e OKRs: Definir metas claras, estratégicas e mensuráveis para definir e impulsionar o crescimento e sucesso organizacional.
-
-Ferramentas de IA para produtividade: Automatizar tarefas rotineiras, refinar processos e escalar a capacidade criativa e analítica.
+Cada pasta dentro deste repositório corresponde a uma disciplina e contém os Projetos/Exercícios, Código-fonte (quando aplicável) e entregáveis finais.
